@@ -9,7 +9,7 @@ Análise de Sentimentos com Language Studio </span>
 Através deste recurso a Inteligência Artificial analiza textos afim de descobrir o sentimento e satisfação do usuário que o escreveu, assim como as principais opiniões.
 
 ### 01 - Dentro do Language Studio guia *Classify test* clique na opção Analyze sentiment and mine opinions:   
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP03%20-%20An%C3%A1lise%20de%20sentimentos/01.png" width=""/> 
+<img align="right" src="danvitmac/azure-analyze-sentiment/imagens/Análise de sentimentos/01.png" width=""/> 
 
 ...
 
